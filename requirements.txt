@@ -1,0 +1,10 @@
+1. List of names of everyone that checks in/out
+2. Automatically select alumni and guest based on the person selected
+    a. If guest, no need to enter a name
+3. Auto fill the time and date
+4. Easier to check in/out - auto select based on last check in/out
+5. Be able to fix mistakes - may not be a good idea to allow this
+6. Auto fill class
+7. Aesthetics not too important but don't make it too ugly
+8. Format the check ins/outs for the user
+    a. Specifically for the person (Les/Jonathan/etc) that use the information
